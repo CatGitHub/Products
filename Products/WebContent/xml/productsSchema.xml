@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<ns0:products xmlns:ns0="http://www.bsu.by" xmlns="http://www.www.bsu.by"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ns0:category name="audio">
+		<ns0:subcategory name="mp3-player">
+			<ns0:product>
+				<ns0:producer>Apple</ns0:producer>
+				<ns0:model>MD253</ns0:model>
+				<ns0:color>white</ns0:color>
+				<ns0:price>420</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>iRiver</ns0:producer>
+				<ns0:model>IR525</ns0:model>
+				<ns0:color>black</ns0:color>
+				<ns0:price>200</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>Ritmix</ns0:producer>
+				<ns0:model>RM689</ns0:model>
+				<ns0:color>orange</ns0:color>
+				<ns0:price>420</ns0:price>
+			</ns0:product>
+
+
+			<ns0:product>
+				<ns0:producer>prod</ns0:producer>
+				<ns0:model>AB234</ns0:model>
+				<ns0:color>white</ns0:color>
+				<ns0:price>234</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>fgh</ns0:producer>
+				<ns0:model>fg123</ns0:model>
+				<ns0:color>ui</ns0:color>
+				<ns0:price>123</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>ty</ns0:producer>
+				<ns0:model>mj124</ns0:model>
+				<ns0:color>jk</ns0:color>
+				<ns0:price>25</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>qwerty</ns0:producer>
+				<ns0:model>as345</ns0:model>
+				<ns0:color>blue</ns0:color>
+				<ns0:price>456000</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>ijhbvc </ns0:producer>
+				<ns0:model>yy578</ns0:model>
+				<ns0:color>iuyuk</ns0:color>
+				<ns0:price>768</ns0:price>
+			</ns0:product>
+		</ns0:subcategory>
+		<ns0:subcategory name="stereosystem">
+			<ns0:product>
+				<ns0:producer>Panasonic</ns0:producer>
+				<ns0:model>PN201</ns0:model>
+				<ns0:color>brown</ns0:color>
+				<ns0:price>399</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>Samsung</ns0:producer>
+				<ns0:model>SM200</ns0:model>
+				<ns0:color>black</ns0:color>
+				<ns0:price>210</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>Philips</ns0:producer>
+				<ns0:model>PL366</ns0:model>
+				<ns0:color>white</ns0:color>
+				<ns0:price>420</ns0:price>
+			</ns0:product>
+		</ns0:subcategory>
+		<ns0:subcategory name="radio">
+			<ns0:product>
+				<ns0:producer>Hyundai</ns0:producer>
+				<ns0:model>HN889</ns0:model>
+				<ns0:color>black</ns0:color>
+				<ns0:price>420</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>Philips</ns0:producer>
+				<ns0:model>PL888</ns0:model>
+				<ns0:color>pink</ns0:color>
+				<ns0:price>20</ns0:price>
+			</ns0:product>
+		</ns0:subcategory>
+	</ns0:category>
+	<ns0:category name="computers">
+		<ns0:subcategory name="monitors">
+			<ns0:product>
+				<ns0:producer>BenQ</ns0:producer>
+				<ns0:model>BQ664</ns0:model>
+				<ns0:color>grey</ns0:color>
+				<ns0:price>420</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>Dell</ns0:producer>
+				<ns0:model>DL205</ns0:model>
+				<ns0:color>black</ns0:color>
+				<ns0:price>203</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>LG</ns0:producer>
+				<ns0:model>LG323</ns0:model>
+				<ns0:color>white</ns0:color>
+				<ns0:price>325</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>Samsung</ns0:producer>
+				<ns0:model>SM201</ns0:model>
+				<ns0:color>black</ns0:color>
+				<ns0:price>420</ns0:price>
+			</ns0:product>
+		</ns0:subcategory>
+		<ns0:subcategory name="notebook">
+			<ns0:product>
+				<ns0:producer>Lenovo</ns0:producer>
+				<ns0:model>LV999</ns0:model>
+				<ns0:color>black</ns0:color>
+				<ns0:price>605</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>Dell</ns0:producer>
+				<ns0:model>DL201</ns0:model>
+				<ns0:color>white</ns0:color>
+				<ns0:price>420</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>Asus</ns0:producer>
+				<ns0:model>AS520</ns0:model>
+				<ns0:color>blue</ns0:color>
+				<ns0:price>305</ns0:price>
+			</ns0:product>
+		</ns0:subcategory>
+		<ns0:subcategory name="printer">
+			<ns0:product>
+				<ns0:producer>Canon</ns0:producer>
+				<ns0:model>CN555</ns0:model>
+				<ns0:color>black</ns0:color>
+				<ns0:price>200</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>HP</ns0:producer>
+				<ns0:model>HP201</ns0:model>
+				<ns0:color>grey</ns0:color>
+				<ns0:price>201</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>printprint</ns0:producer>
+				<ns0:model>jk890</ns0:model>
+				<ns0:color>yellow</ns0:color>
+				<ns0:price>789456123</ns0:price>
+			</ns0:product>
+		</ns0:subcategory>
+	</ns0:category>
+	<ns0:category name="phones">
+		<ns0:subcategory name="mobile phones">
+			<ns0:product>
+				<ns0:producer>Sony Ericsson</ns0:producer>
+				<ns0:model>SE200</ns0:model>
+				<ns0:color>black</ns0:color>
+				<ns0:price>300</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>Samsung</ns0:producer>
+				<ns0:model>SM555</ns0:model>
+				<ns0:color>black</ns0:color>
+				<ns0:price>400</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>nokia</ns0:producer>
+				<ns0:model>KL321</ns0:model>
+				<ns0:color>orange</ns0:color>
+				<ns0:price>123456789</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>uik</ns0:producer>
+				<ns0:model>ty678</ns0:model>
+				<ns0:color>k</ns0:color>
+				<ns0:price>123</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>jnjgfdghfrh</ns0:producer>
+				<ns0:model>tt666</ns0:model>
+				<ns0:color>ffr</ns0:color>
+				<ns0:price>12</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>yu7</ns0:producer>
+				<ns0:model>ty678</ns0:model>
+				<ns0:color>ty</ns0:color>
+				<ns0:price>5678</ns0:price>
+			</ns0:product>
+		</ns0:subcategory>
+		<ns0:subcategory name="radio phones">
+			<ns0:product>
+				<ns0:producer>Samsung</ns0:producer>
+				<ns0:model>SM777</ns0:model>
+				<ns0:color>grey</ns0:color>
+				<ns0:price>420</ns0:price>
+			</ns0:product>
+			<ns0:product>
+				<ns0:producer>iop</ns0:producer>
+				<ns0:model>qw234</ns0:model>
+				<ns0:color>fine</ns0:color>
+				<ns0:price>800</ns0:price>
+			</ns0:product>
+		</ns0:subcategory>
+	</ns0:category>
+</ns0:products>
+

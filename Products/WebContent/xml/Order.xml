@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<ns0:orders xmlns:ns0="http://www.bsu.by" xmlns="http://www.www.bsu.by"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ns0:order>
+		<ns0:model-of-product>dfsdf</ns0:model-of-product>
+		<ns0:user>
+			<ns0:first-name>first</ns0:first-name>
+			<ns0:last-name>last</ns0:last-name>
+		</ns0:user>
+	</ns0:order>
+
+
+</ns0:orders>
