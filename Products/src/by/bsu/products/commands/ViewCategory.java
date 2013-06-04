@@ -29,7 +29,7 @@ public final class ViewCategory extends AbstractCommand {
 
             lock.readLock().lock();
             Source xmlSource = new StreamSource(PathName.PATH + PathName.XML_PRODUCTS);
-          //  System.out.println("path= "+PathName.PATH);
+
             Transformer transformer = StylesheetCache.newTransformer(PathName.PATH + PathName.XSL_CATEGORY);
             transformer.transform(xmlSource, new StreamResult(out));
         } catch (Exception e) {

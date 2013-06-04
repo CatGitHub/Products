@@ -18,10 +18,7 @@ import javax.xml.transform.Transformer;
 import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.stream.StreamSource;
 
-/**
- *
- * @author Katsiaryna_Homyakova
- */
+
 public final class ReturnCommand extends AbstractCommand {
 
     @Override

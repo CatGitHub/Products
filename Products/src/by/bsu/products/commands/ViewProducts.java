@@ -4,7 +4,7 @@
  */
 package by.bsu.products.commands;
 
-//import by.bsu.products.constants.AttributeName;
+
 import by.bsu.products.constants.ParameterName;
 import by.bsu.products.constants.PathName;
 import by.bsu.products.exceptions.LogicException;

@@ -25,8 +25,7 @@ public final class MakeOrder extends AbstractCommand {
         String subcategory = request.getParameter(ParameterName.SUBCATEGORY);
         String category = request.getParameter(ParameterName.CATEGORY);
         String model = request.getParameter("model");
-//        ProductsForm product=new ProductsForm();
-//        product.setProducer("");
+
         PrintWriter out;
         try {
             out = response.getWriter();

@@ -16,8 +16,6 @@
 				<title>productsStylesheet.xsl</title>
 			</head>
 			<body>
-				<!-- <table height="10%" width="100%"> <table align="right"> <td> <fieldset> 
-					<xsl:call-template name="login" /> </fieldset> </td> </table> </table> -->
 				<table width="100%">
 					<td width="30%" valign="top">
 

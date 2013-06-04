@@ -23,7 +23,7 @@ public final class ViewSubCategory extends AbstractCommand {
     @Override
     public String execute(HttpServletRequest request, HttpServletResponse response) throws ServletException, LogicException {
         String category = request.getParameter(ParameterName.CATEGORY);
-//request.getSession().setAttribute("category", category);
+
         PrintWriter out ;
         try {
     

@@ -10,7 +10,7 @@ public final class PathName {
     }
     public static final String EMPTY_PATH = "";
     public static final String XML_PRODUCTS = "\\xml\\productsSchema.xml";
-    public static final String XML_USERS = "\\xml\\users.xml";
+ 
     public static final String XML_ORDER = "\\xml\\order.xml";
 
     public static final String XSL_MAKE_ORDER = "\\xsl\\makeOrder.xsl";

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:ns0='http://www.bsu.by' version="1.0">
 	<xsl:output method="html" />
@@ -15,7 +14,7 @@
 				<title>productsStylesheet.xsl</title>
 			</head>
 			<body>
-			
+		
 				<table width="100%">
 					<td width="30%"></td>
 					<td width="t0%">

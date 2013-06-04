@@ -18,7 +18,7 @@ public final class NoCommand extends AbstractCommand {
     public String execute(HttpServletRequest request,
             HttpServletResponse response)
             throws ServletException, LogicException {
-    	System.out.println("no command!!!");
+    	
         String page = PageName.INDEX;
         return page;
 
